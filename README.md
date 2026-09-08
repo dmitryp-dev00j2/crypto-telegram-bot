@@ -45,3 +45,5 @@ Or run as a systemd unit on your server.
 ```bash
 pytest
 ```
+
+<!-- updated: 2026-09-08 -->
