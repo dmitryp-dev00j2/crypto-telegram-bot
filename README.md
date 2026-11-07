@@ -46,4 +46,4 @@ Or run as a systemd unit on your server.
 pytest
 ```
 
-<!-- updated: 2026-11-06 -->
+<!-- updated: 2026-11-07 -->
